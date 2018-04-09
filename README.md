@@ -9,5 +9,8 @@ in d3.png I show the administration panel
 in d4.png I show the user page 
  
 in run the website run  python manage.py runserver  how on d7.png
+on image d8.png I show strcture polls_question
+on image d9.png I show data insert indatabse
+
  
 
